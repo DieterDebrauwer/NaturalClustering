@@ -1,4 +1,4 @@
-#Portfolio Optimization under Natural Clustering
+# Portfolio Optimization under Natural Clustering
 
 This repository contains the code accompanying the article:
 
